@@ -19,6 +19,6 @@
 <img src="python.png" alt="python" width="333" height="333">
 <br>
 <br>
-<input type="button" value="python projects" onclick='window.open("https://mohammedsalem14.github.io/pictoblox-projects/");'/>
+<input type="button" value="python projects" onclick='window.open("https://mohammedsalem14.github.io/python-page/");'/>
 </center>
 </body>
