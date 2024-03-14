@@ -1,11 +1,15 @@
 <html>
 <body style="background-color:powderblue;">
     <head>
-    <style type="text/css">a:link, a:visited ,input{
-  background-color: #B428DD
+    <style> 
+input[type=pictoblox projects]=s, input[type=python projects],
+  background-color: #48bf53;
+  border: none;
   color: purple;
-  padding: 14px 25px;
-}
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 </style>
 </head>
